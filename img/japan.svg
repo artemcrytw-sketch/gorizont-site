@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img">
+<defs><linearGradient id="g" x2="0" y2="1"><stop stop-color="#DCE8E7"/><stop offset="1" stop-color="#F4F1EA"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#g)"/>
+<circle cx="900" cy="170" r="75" fill="#E6A0A0" opacity=".9"/>
+<path d="M0 460 Q220 300 430 450 T850 420 T1200 390 V720 H0Z" fill="#799B91"/>
+<path d="M0 540 Q240 390 480 530 T900 490 T1200 470 V720 H0Z" fill="#375D62"/>
+<path d="M0 620 Q260 520 510 620 T1000 590 T1200 570 V720 H0Z" fill="#183B56" opacity=".85"/>
+<text x="70" y="100" font-family="Arial,sans-serif" font-size="42" fill="#183B56" font-weight="700">ЯПОНИЯ</text>
+<text x="74" y="148" font-family="Arial,sans-serif" font-size="23" fill="#355B60">Тишина садов и энергия городов</text>
+</svg>
